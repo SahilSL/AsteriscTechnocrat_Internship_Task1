@@ -1,0 +1,19 @@
+ 	  	    CAFE BILLING APPLICATION
+
+ BILL NUMBER : 8282
+ CUSTOMER NAME : Sahil Lokhande
+ PHONE NUMBER : 8087977227
+===========================================================
+ PRODUCTS		QUANTITY		PRICE		TOTAL PRICE
+===========================================================
+ French Fries  		  5		 60		300
+ Pasta         		  1		 50		50
+ Paneer Tikka  		  3		 90		270
+ Fruti         		  5		 20		100
+-----------------------------------------------------------
+ ATF Tax						Rs. 17.5
+ Starter Tax						Rs. 27.0
+ Drinks Tax						Rs. 15.0
+-----------------------------------------------------------
+ TOTAL BILL						Rs. 779.5
+-----------------------------------------------------------
